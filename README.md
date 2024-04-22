@@ -7,7 +7,7 @@ This Python script provides a graphical user interface (GUI) for performing K-Me
 - **Select File:** Allows users to browse and select a CSV file containing movie data.
 - **Percentage of Data to Read:** Specifies the percentage of data from the selected file to use for analysis.
 - **Number of Clusters (K):** Specifies the number of clusters for K-Means clustering.
-- **Start Analysis:** Initiates the analysis process, performing K-Means clustering and displaying the clusters, centroids, and outliers.
+- **Start Analysis:** Initiates the analysis process, detect the outliers from the data by IQR, performing K-Means clustering and displaying the clusters, centroids, and outliers.
 
 ### Inputs:
 
